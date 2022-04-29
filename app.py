@@ -12,7 +12,7 @@ import av
 mp_holistic = mp.solutions.holistic 
 mp_drawing = mp.solutions.drawing_utils
 
-modelF= keras.models.load_model('rec_0.h5')
+modelF= keras.models.load_model('rec_1.h5')
 
 
 
